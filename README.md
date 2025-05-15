@@ -42,6 +42,7 @@ Set up all required tables and relationships.
 Insert sample data to demonstrate functionality.
 
 What the Script Includes:
+
 CREATE DATABASE statement to initialize the project.
 
 Tables with primary and foreign key relationships.
@@ -51,6 +52,7 @@ Sample data for employees, suppliers, customers, cereals, inventory, and orders.
 Basic normalization and referential integrity using foreign keys.
 
 ✅ Notes:
+
 Default country for addresses is set to Kenya.
 
 Uses AUTO_INCREMENT for primary keys for simplicity.
