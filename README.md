@@ -1,8 +1,11 @@
 Crunch and Munch Cereals Shop Database
+
 📘 Project Title
+
 Crunch and Munch Cereals Shop - Relational Database Design and Implementation
 
 📌 Description
+
 This project is a relational database system designed for a fictional cereal retail shop called Crunch and Munch Cereals Shop. It helps manage and organize key business operations including:
 
 Employee and role management
